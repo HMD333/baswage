@@ -1,0 +1,32 @@
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\bin\Debug\DB_homework.exe.config
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\bin\Debug\DB_homework.exe
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\bin\Debug\DB_homework.pdb
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.csproj.AssemblyReference.cache
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.Properties.Resources.resources
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.csproj.GenerateResource.cache
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.csproj.CoreCompileInputs.cache
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.exe
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.pdb
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.Form1.resources
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\bin\Debug\EntityFramework.dll
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\bin\Debug\EntityFramework.xml
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abo Night\Desktop\DB_homework\DB_homework\obj\Debug\DB_homework.csproj.CopyComplete
+D:\Y3\SM2\DB\DB_homework\DB_homework\bin\Debug\DB_homework.exe.config
+D:\Y3\SM2\DB\DB_homework\DB_homework\bin\Debug\DB_homework.exe
+D:\Y3\SM2\DB\DB_homework\DB_homework\bin\Debug\DB_homework.pdb
+D:\Y3\SM2\DB\DB_homework\DB_homework\bin\Debug\EntityFramework.dll
+D:\Y3\SM2\DB\DB_homework\DB_homework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Y3\SM2\DB\DB_homework\DB_homework\bin\Debug\EntityFramework.xml
+D:\Y3\SM2\DB\DB_homework\DB_homework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homework.csproj.AssemblyReference.cache
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homework.Form1.resources
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homework.Properties.Resources.resources
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homework.csproj.GenerateResource.cache
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homework.csproj.CoreCompileInputs.cache
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homework.exe
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homework.pdb
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homework.Form2.resources
+D:\Y3\SM2\DB\DB_homework\DB_homework\obj\Debug\DB_homew.CCD05055.Up2Date

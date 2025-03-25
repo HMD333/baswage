@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Y3\\SM2\\DB\\DB_homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B82689A-A00E-46CC-A1B1-3D86684D2366}|DB_homework\\DB_homework.csproj|D:\\Y3\\SM2\\DB\\DB_homework\\db_homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B82689A-A00E-46CC-A1B1-3D86684D2366}|DB_homework\\DB_homework.csproj|solutionrelative:db_homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B82689A-A00E-46CC-A1B1-3D86684D2366}|DB_homework\\DB_homework.csproj|d:\\y3\\sm2\\db\\db_homework\\db_homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B82689A-A00E-46CC-A1B1-3D86684D2366}|DB_homework\\DB_homework.csproj|solutionrelative:db_homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Y3\\SM2\\DB\\DB_homework\\DB_homework\\Form1.cs",
+              "RelativeDocumentMoniker": "DB_homework\\Form1.cs",
+              "ToolTip": "D:\\Y3\\SM2\\DB\\DB_homework\\DB_homework\\Form1.cs",
+              "RelativeToolTip": "DB_homework\\Form1.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAA4AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T19:13:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Y3\\SM2\\DB\\DB_homework\\DB_homework\\Form1.cs",
+              "RelativeDocumentMoniker": "DB_homework\\Form1.cs",
+              "ToolTip": "D:\\Y3\\SM2\\DB\\DB_homework\\DB_homework\\Form1.cs [Design]",
+              "RelativeToolTip": "DB_homework\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T19:13:25.453Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
